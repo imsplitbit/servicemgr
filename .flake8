@@ -1,0 +1,8 @@
+[flake8]
+exclude =
+    tests,
+    scripts,
+    .venv
+import-order-style = smarkets
+ignore =
+    E501,
